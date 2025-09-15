@@ -14,4 +14,4 @@ The purpose of this project was to create something that would adapt to differen
 
 -This webpage is deployed to GitHub Pages
 
-[Link to the project Deployment]
+[Link to the project Deployment]https://domenique412.github.io/playing-with-css-in-js/
